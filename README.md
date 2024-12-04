@@ -1,6 +1,6 @@
 ## Bem Vindo !
 
-> [!AVISO]
+> [!WARNING]
 > O homem não pode obter nada sem primeiro sacrificar algo. Para
 > obter algo, algo de igual valor é necessário. Essa é
 > _Lei da Troca Equivalente da Alquimia_. Na época, acreditávamos que esse era
