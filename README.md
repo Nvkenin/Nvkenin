@@ -7,10 +7,10 @@
 
    ##
 
-> [!IMPORTANT]
-> "Não há fatos eternos, como não há verdades absolutas."
+> [!CAUTION]
+> "Eu só tenho uma pergunta para você. Você realmente está satisfeito com o que você tem agora?"
 >
-> ― **Friedrich Nietzsche**
+> ― ***Aizen Souske***
 
 ##
 
