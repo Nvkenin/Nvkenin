@@ -5,13 +5,6 @@
    <img height="210em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Nvkenin&show_icons=true&theme=aura">
  </div>
 
-   ##
-
-> [!CAUTION]
-> "Eu só tenho uma pergunta para você. Você realmente está satisfeito com o que você tem agora?"
->
-> ― ***Aizen Souske***
-
 ##
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nukenin.png" alt="Your Image Badge" />
