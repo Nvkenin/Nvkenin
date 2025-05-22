@@ -31,8 +31,9 @@ Obrigado pela visita !
 
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,git,github,grafana,windows,md,nginx,obsidian,powershell,debian)](https://skillicons.dev)
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=kali,linux,git,github,grafana,windows,md,nginx,obsidian,powershell,debian">
+</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white">
@@ -44,12 +45,6 @@ Obrigado pela visita !
  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 </p>
 
-##
-
-<p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/Nukenin.png" alt="Your Image Badge"/>
-</p>
-
 
 ## Certificações
 
@@ -57,10 +52,30 @@ Obrigado pela visita !
 | --- | --- |
 | ![CCNA](https://img.shields.io/badge/_-CCNA_Introduction_to_Networks-t?style=flat&logo=cisco&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F8e9fe074-d594-4e63-89fc-352419473837%2Fpublic_url) | CCNA: Introduction to Networks |
 | ![CCNA](https://img.shields.io/badge/_-CCNA%3A_Switching%2C_Routing%2C_and_Wireless_Essentials-t?style=flat&logo=cisco&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F0d12358c-cfdb-490c-a354-e51aafacbe6a%2Fpublic_url) | CCNA: Switching, Routing, and Wireless Essentials |
-| 
+| ![AWS](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?logo=amazonwebservices&labelColor=%23FFA500&color=gray) | AWS Academy Cloud Foundations |
 
+
+## Projetos
+
+- Projeto casa inteligente voltada a PCDs (Deficientes auditivos) - Grupo SmartHome
+- Monitoramento on premises com o uso de Zabbix & Grafana
+- Infraestrutura em Nuvem usando AWS e Azure (Commercloud)
+- Infraestrutura de rede no Packet Tracer zero trust
+ 
+
+## Conquistas
+
+- CTF Hackers do Bem (109 Posição)
+- CTF Minsite (15 Posição)
+
+<p align="left">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Nukenin.png" alt="Your Image Badge"/>
+</p>
+
+##
 
 <h2 align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nvkenin&theme=shadow-purple&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
  <a href ="https://github.com/Nvkenin">
-   <img src="https://github-readme-stats.vercel.app/api?username=Nvkenin&show_icons=true&theme=aura">
+   <img src="https://github-readme-stats.vercel.app/api?username=Nvkenin&show_icons=true&theme=midnight-purple">
 </h2>
