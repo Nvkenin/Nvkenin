@@ -20,7 +20,12 @@ Obrigado pela visita !
 
 
 >[!TIP]
->"_Essa é sua última chance. Depois disso, não há como voltar. Você toma a pílula azul e a história acaba. Você acorda em sua cama e acredita no que quiser acreditar._
+>_"Essa é sua última chance. Depois disso, não há como voltar._
+>
+>
+>_Você toma a pílula azul e a história acaba. Você acorda em sua cama e acredita no que quiser acreditar._
+>
+>
 >_Você toma a pílula vermelha e fica no País das Maravilhas. E eu mostro a profundidade da toca do coelho...._"
 >
 ><cite>-Matrix, Morpheus </cite> 
