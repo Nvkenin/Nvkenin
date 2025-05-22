@@ -50,7 +50,15 @@ Obrigado pela visita !
  <img src="https://tryhackme-badges.s3.amazonaws.com/Nukenin.png" alt="Your Image Badge"/>
 </p>
 
-##
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA](https://img.shields.io/badge/_-CCNA_Introduction_to_Networks-t?style=flat&logo=cisco&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F8e9fe074-d594-4e63-89fc-352419473837%2Fpublic_url) | CCNA: Introduction to Networks |
+| ![CCNA](https://img.shields.io/badge/_-CCNA%3A_Switching%2C_Routing%2C_and_Wireless_Essentials-t?style=flat&logo=cisco&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F0d12358c-cfdb-490c-a354-e51aafacbe6a%2Fpublic_url) | CCNA: Switching, Routing, and Wireless Essentials |
+| 
+
 
 <h2 align="center">
  <a href ="https://github.com/Nvkenin">
