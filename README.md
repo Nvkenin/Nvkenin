@@ -84,7 +84,7 @@ Obrigado pela visita !
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nvkenin&theme=midnight-purple&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
  <a href ="https://github.com/Nvkenin">
    <img src="https://github-readme-stats.vercel.app/api?username=Nvkenin&show_icons=true&theme=midnight-purple">
-
+ </a>
 
 ## Conecte-se comigo 
 
